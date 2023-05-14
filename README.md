@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Wellington Morais 😁
+## Bem-vindo(a) 😁
 
  <div>
    <a href="https://github.com/WellingtonMorais-Lab">
